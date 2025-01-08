@@ -1,1 +1,2 @@
 SQL> SPOOL OFF
+just cheking itis working or not
